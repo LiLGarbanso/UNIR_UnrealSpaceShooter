@@ -1,0 +1,31 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Lista de cambios no controlados predeterminada",
+			"files": [
+				"C:/Furious Monkeys/ProyectosUnreal/SpaceShooter/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Furious Monkeys/ProyectosUnreal/SpaceShooter/Content/Nivel1_Basico.umap",
+				"C:/Furious Monkeys/ProyectosUnreal/SpaceShooter/Content/Prefab/Nivel/CamaraNivel.uasset",
+				"C:/Furious Monkeys/ProyectosUnreal/SpaceShooter/Content/Prefab/Nivel/GMode_Basico.uasset",
+				"C:/Furious Monkeys/ProyectosUnreal/SpaceShooter/Content/Nivel1/Nivel1_Basico.umap",
+				"C:/Furious Monkeys/ProyectosUnreal/SpaceShooter/Content/Nivel1/SpaceShip.uasset",
+				"C:/Furious Monkeys/ProyectosUnreal/SpaceShooter/Content/CamaraNivel.uasset",
+				"C:/Furious Monkeys/ProyectosUnreal/SpaceShooter/Content/Fab/Baseball_Field/baseball_field.uasset",
+				"C:/Furious Monkeys/ProyectosUnreal/SpaceShooter/Content/Fab/Baseball_Field/Dirt.uasset",
+				"C:/Furious Monkeys/ProyectosUnreal/SpaceShooter/Content/Fab/Baseball_Field/Grass.uasset",
+				"C:/Furious Monkeys/ProyectosUnreal/SpaceShooter/Content/Fab/Baseball_Field/White.uasset",
+				"C:/Furious Monkeys/ProyectosUnreal/SpaceShooter/Content/Nivel1/Input/MC_Player.uasset",
+				"C:/Furious Monkeys/ProyectosUnreal/SpaceShooter/Content/Nivel1/Input/Disparar.uasset",
+				"C:/Furious Monkeys/ProyectosUnreal/SpaceShooter/Content/Nivel1/Input/Movimiento.uasset",
+				"C:/Furious Monkeys/ProyectosUnreal/SpaceShooter/Content/Nivel1/Spacechip.uasset",
+				"C:/Furious Monkeys/ProyectosUnreal/SpaceShooter/Content/Nivel1/GMode_Basico.uasset",
+				"C:/Furious Monkeys/ProyectosUnreal/SpaceShooter/Content/Nivel1/Prefabs/Spacechip.uasset",
+				"C:/Furious Monkeys/ProyectosUnreal/SpaceShooter/Content/Nivel1/Prefabs/Proyectil.uasset",
+				"C:/Furious Monkeys/ProyectosUnreal/SpaceShooter/Content/Nivel1.umap",
+				"C:/Furious Monkeys/ProyectosUnreal/SpaceShooter/Content/Prefab/Nivel/SpaceShip.uasset"
+			]
+		}
+	]
+}
