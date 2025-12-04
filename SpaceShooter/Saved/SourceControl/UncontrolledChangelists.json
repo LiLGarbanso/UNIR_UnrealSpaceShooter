@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Lista de cambios no controlados predeterminada",
 			"files": [
+				"C:/Furious Monkeys/ProyectosUnreal/UNIR_UnrealSpaceShooter/SpaceShooter/Content/Nivel1/Nivel1_Basico.umap",
+				"C:/Furious Monkeys/ProyectosUnreal/UNIR_UnrealSpaceShooter/SpaceShooter/Content/Nivel1/Prefabs/SpaceShip_Character.uasset",
+				"C:/Furious Monkeys/ProyectosUnreal/UNIR_UnrealSpaceShooter/SpaceShooter/Content/Nivel1/Prefabs/Spacechip.uasset",
+				"C:/Furious Monkeys/ProyectosUnreal/UNIR_UnrealSpaceShooter/SpaceShooter/Content/Nivel1/GMode_Basico.uasset",
+				"C:/Furious Monkeys/ProyectosUnreal/UNIR_UnrealSpaceShooter/SpaceShooter/Content/Nivel1/UI/GameWidget.uasset",
+				"C:/Furious Monkeys/ProyectosUnreal/UNIR_UnrealSpaceShooter/SpaceShooter/Content/Nivel1/UI/PlayerHUD.uasset",
 				"C:/Furious Monkeys/ProyectosUnreal/SpaceShooter/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Furious Monkeys/ProyectosUnreal/SpaceShooter/Content/Nivel1_Basico.umap",
 				"C:/Furious Monkeys/ProyectosUnreal/SpaceShooter/Content/Prefab/Nivel/CamaraNivel.uasset",
